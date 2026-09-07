@@ -1,6 +1,8 @@
 # SuperPlane Documentation
 
-This repository contains the documentation for [SuperPlane](https://github.com/superplanehq/superplane), the open source DevOps control plane.
+This repository contains the documentation for [SuperPlane](https://github.com/superplanehq/superplane), an open source AI software factory for engineering teams. SuperPlane coordinates AI agents, source control, continuous integration (CI), review, approvals, and feedback to move high-confidence routine work from the backlog to verified, review-ready pull requests.
+
+Agents perform the work. Workflows define the allowed scope, required checks, review policies, approval points, and escalation paths. This keeps control and verification in the workflow instead of depending on a specific model or agent.
 
 ## About
 
@@ -17,7 +19,13 @@ These files are generated automatically during `npm run build` (via `prebuild`) 
 
 ## Contributing
 
-We welcome your contributions to improve the documentation. See [CONTRIBUTING.md](./CONTRIBUTING.md) for development setup and contribution guidelines.
+Contributions should help engineering teams evaluate, configure, and operate SuperPlane. High-value contributions include:
+
+- Reproducible workflows that take routine work from an issue to a verified pull request
+- Guidance for configuring agents, integrations, runners, checks, approvals, and escalation paths
+- Examples and troubleshooting steps that help teams verify workflow behaviour
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the development setup and contribution guidelines. Follow the terminology and writing rules in [AGENTS.md](./AGENTS.md).
 
 If you have any questions, please reach out to us on [Discord](https://discord.superplane.com).
 
