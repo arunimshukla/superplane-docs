@@ -19,13 +19,7 @@ These files are generated automatically during `npm run build` (via `prebuild`) 
 
 ## Contributing
 
-Contributions should help engineering teams evaluate, configure, and operate SuperPlane. High-value contributions include:
-
-- Reproducible workflows that take routine work from an issue to a verified pull request
-- Guidance for configuring agents, integrations, runners, checks, approvals, and escalation paths
-- Examples and troubleshooting steps that help teams verify workflow behaviour
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for the development setup and contribution guidelines. Follow the terminology and writing rules in [AGENTS.md](./AGENTS.md).
+We welcome your contributions to improve the documentation. See [CONTRIBUTING.md](./CONTRIBUTING.md) for development setup and contribution guidelines.
 
 If you have any questions, please reach out to us on [Discord](https://discord.superplane.com).
 
